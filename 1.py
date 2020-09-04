@@ -1,3 +1,3 @@
 print("hello world")
 
-print("hello shijie")
+print("hello ashes")
